@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&custom_title=Bruno-Serpa"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
 </div>
-
+<br>
 <div style="display: inline_block">
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />

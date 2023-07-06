@@ -14,7 +14,7 @@
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126292045338775582/e18518c6d24257c6fb02e3c95a862d85_1.gif" />
+  <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126308050886721647/e18518c6d24257c6fb02e3c95a862d85_1_1.gif" />
 </div>
 
 ##

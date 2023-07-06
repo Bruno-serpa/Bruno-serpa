@@ -5,7 +5,7 @@
 - 📘 Estudando Engenharia de Redes (UnB)
 
 <div>
-  <a href="https://github.com/Bruno-serpa">
+  <a href="https://github.com/Bruno-serpa?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&locale=pt-br&rank_icon=github&custom_title=Bruno-Serpa"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
 </div>

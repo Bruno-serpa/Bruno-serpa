@@ -1,4 +1,4 @@
-## Olá, aqui é o Bruno!
+## Opa, aqui é o Bruno!
 ### Bem vindo ao meu perfil GitHub
 
 - 🧑‍💻 Progamador

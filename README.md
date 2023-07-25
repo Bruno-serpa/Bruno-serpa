@@ -8,13 +8,6 @@
 - 📘 Network engineering student (UnB)
 - 📫 If you want to send a message  **bruno30.serpa@gmail.com**
 
-<div>
-  <a href="https://github.com/Bruno-serpa?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
-</div>
-<br>
-
 ## 🛠 &nbsp;Tech Stack
 
 <div style="display: inline_block">
@@ -26,6 +19,14 @@
   <img src="https://skillicons.dev/icons?i=ps"/>
   <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126308050886721647/e18518c6d24257c6fb02e3c95a862d85_1_1.gif" />
 </div>
+
+<div>
+  <a href="https://github.com/Bruno-serpa?tab=repositories">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
+</div>
+
+<br>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 

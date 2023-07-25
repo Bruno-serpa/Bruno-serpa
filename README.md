@@ -20,7 +20,7 @@
 </div>
 <br>
 
-##&nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div>
   <a href="https://github.com/Bruno-serpa?tab=repositories">

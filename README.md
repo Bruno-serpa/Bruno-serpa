@@ -28,7 +28,7 @@
 
 <p align="left">
  
- <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" target:"_blank" rel:"external" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(64, 224, 208)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 

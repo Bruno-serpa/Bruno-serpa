@@ -1,5 +1,6 @@
-<img src="images/computer-5425039-4558296.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="images/Computer_Illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1>Hi, Bruno here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
+
 ### Welcome to my profile of GitHub
 
 - 🧑‍💻 I'm developer

@@ -24,6 +24,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
 </div>
+
 ## 👨🏻‍💼 &nbsp;Connect with Me
 
 <div style="display: inline_block">
@@ -37,7 +38,7 @@
  </a>
 
  <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126308050886721647/e18518c6d24257c6fb02e3c95a862d85_1_1.gif" />
- 
+
 </div>
 
 <br>

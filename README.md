@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=ps"/>
 </div>
-<br>
 
 ## :new_moon: GitHub Analytics
 

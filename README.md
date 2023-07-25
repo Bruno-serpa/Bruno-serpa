@@ -19,6 +19,9 @@
   <img src="https://skillicons.dev/icons?i=ps"/>
 </div>
 <br>
+
+##&nbsp;GitHub Analytics
+
 <div>
   <a href="https://github.com/Bruno-serpa?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>

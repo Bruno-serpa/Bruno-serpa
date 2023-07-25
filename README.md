@@ -1,4 +1,4 @@
-<img src="images/exp_inovadora_edux.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="images/computer-5425039-4558296.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1>Hi, Bruno here! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30"></h1>
 
 ### Welcome to my profile of GitHub
@@ -31,11 +31,11 @@
 <p align="left">
  
  <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(64, 224, 208)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(0, 106, 255)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
  <a href="mailto:bruno30.serpa@gmail.com" target="_blank" rel="external" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(64, 224, 208)&link=mailto:evander.20116@gmail.com"/> 
+  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(0, 106, 255)&link=mailto:evander.20116@gmail.com"/> 
  </a>
 
  </p>

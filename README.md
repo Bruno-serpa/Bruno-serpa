@@ -1,5 +1,5 @@
 <img src="images/computer-5425039-4558296.png" alt="Computer">
-## Hi, Bruno here!
+<h1>Hi, Bruno here!</h1>
 ### Welcome to my profile of GitHub
 
 - 🧑‍💻 I'm developer

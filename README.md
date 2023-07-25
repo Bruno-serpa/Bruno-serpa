@@ -1,3 +1,4 @@
+<img src="images/computer-5425039-4558296.png" alt="Computer">
 ## Hi, Bruno here!
 ### Welcome to my profile of GitHub
 
@@ -32,7 +33,7 @@
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(64, 224, 208)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
- <a href="mailto:bruno30.serpa@gmail.com" alt="Gmail">
+ <a href="mailto:bruno30.serpa@gmail.com" target="_blank" rel="external" alt="Gmail">
   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(64, 224, 208)&link=mailto:evander.20116@gmail.com"/> 
  </a>
 

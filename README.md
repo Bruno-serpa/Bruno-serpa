@@ -1,5 +1,6 @@
 <img src="images/computer-5425039-4558296.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1>Hi, Bruno here! <img src="" width="30"></h1>
+<h1>Hi, Bruno here!</h1>
+<br>
 
 
 ### Welcome to my profile of GitHub

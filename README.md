@@ -29,7 +29,7 @@
 
 <div style="display: inline_block">
  
- <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" alt="Linkedin">
+ <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" target="_blank" rel="external" alt="Linkedin">
   <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(0, 106, 255)&link=https://www.linkedin.com/in/evander-inacio"/> 
  </a>
 
@@ -42,4 +42,6 @@
 </div>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bruno-Serpa&color=blue" alt="Profile views" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Bruno-Serpa&color=blue" alt="Profile views" /> 
+</p>

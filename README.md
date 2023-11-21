@@ -13,7 +13,6 @@
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=js"/>
-  <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=cpp"/>
   <img src="https://skillicons.dev/icons?i=ps"/>
   <img src="https://skillicons.dev/icons?i=gamemakerstudio"/>

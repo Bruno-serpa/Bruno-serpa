@@ -16,6 +16,7 @@
   <img src="https://skillicons.dev/icons?i=py"/>
   <img src="https://skillicons.dev/icons?i=cpp"/>
   <img src="https://skillicons.dev/icons?i=ps"/>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio"/>
 </div>
 
 ## :new_moon: GitHub Analytics

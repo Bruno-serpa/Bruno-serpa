@@ -23,7 +23,7 @@
 <div>
   <a href="https://github.com/Bruno-serpa?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
-  <img height="150em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
 </div>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me

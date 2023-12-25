@@ -31,11 +31,10 @@
 <div style="display: inline_block">
  
  <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" target="_blank" rel="external" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/-Linkedin-rgb(25, 27, 30)?style=for-the-badge&logo=Linkedin&logoColor=rgb(0, 106, 255)&link=https://www.linkedin.com/in/evander-inacio"/> 
+  <img width="140px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a>
-
  <a href="mailto:bruno30.serpa@gmail.com" target="_blank" rel="external" alt="Gmail">
-  <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(0, 106, 255)&link=mailto:evander.20116@gmail.com"/> 
+  <img width="113px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
  </a>
 
  <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126308050886721647/e18518c6d24257c6fb02e3c95a862d85_1_1.gif" />

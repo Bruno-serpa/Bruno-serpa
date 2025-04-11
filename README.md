@@ -29,17 +29,16 @@
 
 ## 👨🏻‍💼 &nbsp;Connect with Me
 
-<div style="display: inline_block">
- 
- <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" target="_blank" rel="external" alt="Linkedin">
-  <img width="140px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
- </a>
- <a href="mailto:bruno30.serpa@gmail.com" target="_blank" rel="external" alt="Gmail">
+<div display="flex" gap="30px">
+
+  <a href="https://www.linkedin.com/in/bruno-serpa-491108281/" target="_blank" rel="external" alt="Linkedin">
+  <img width="118px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
+  <a href="mailto:bruno30.serpa@gmail.com" target="_blank" rel="external" alt="Gmail">
   <img width="113px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
- </a>
+  </a>
 
- <img align="right" alt="Gif" height="150" width="250" src="https://cdn.discordapp.com/attachments/1013552617500184650/1126308050886721647/e18518c6d24257c6fb02e3c95a862d85_1_1.gif" />
-
+  <img align="right" alt="Gif" height="106" width="128" src="https://static.wixstatic.com/media/9affd1_c418a4df42c847e08424f4e6dd149a90~mv2.gif" />
 </div>
 
 <br>

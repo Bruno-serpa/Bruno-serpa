@@ -1,5 +1,7 @@
+<div align="left">
+  <h1>Hi, Bruno here!</h1>
+</div>
 <img src="images/computer-5425039-4558296.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
-<h1>Hi, Bruno here!<br></h1>
 
 ### Welcome to my profile of GitHub
 
@@ -7,7 +9,7 @@
 - 📘 Network engineering student (UnB)
 - 📫 If you want to send a message  **bruno30.serpa@gmail.com**
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack 
 
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=html"/>
@@ -16,15 +18,15 @@
   <img src="https://skillicons.dev/icons?i=electron"/>
   <img src="https://skillicons.dev/icons?i=cpp"/>
   <img src="https://skillicons.dev/icons?i=ps"/>
+  <img src="https://skillicons.dev/icons?i=ai"/>
   <img src="https://skillicons.dev/icons?i=gamemakerstudio"/>
 </div>
 
 ## :new_moon: GitHub Analytics
 
-<div>
-  <a href="https://github.com/Bruno-serpa?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Bruno-serpa&show_icons=true&theme=transparent&&rank_icon=github&custom_title=Bruno-Serpa"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno-serpa&layout=compact&theme=transparent"/>
 </div>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me

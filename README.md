@@ -1,7 +1,4 @@
-<div align="left">
-  <h1>Hi, Bruno here!</h1>
-</div>
-
+<h1>Hi, Bruno here!</h1>
 
 ### Welcome to my profile of GitHub
 

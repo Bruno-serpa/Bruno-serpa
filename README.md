@@ -11,7 +11,7 @@
 
 ## 🛠 &nbsp;Tech Stack 
 
-<div style="display: inline_block">
+<div style="display: flex">
   <img src="https://skillicons.dev/icons?i=html"/>
   <img src="https://skillicons.dev/icons?i=css"/>
   <img src="https://skillicons.dev/icons?i=js"/>
